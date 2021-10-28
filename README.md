@@ -1,4 +1,4 @@
-GameOfNim:
+#GameOfNim:
 
 Python class, GameOfNim, defines the rules of the Game of Nim and can be used to play optimally against any opponent.
 
